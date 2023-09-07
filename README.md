@@ -59,7 +59,9 @@ The Dataset was taken from Kaggle:(https://www.kaggle.com/datasets/dheerajperuma
 The dataset includes 2,312 training images and 578 testing images.
 
 We did about 50 epochs and got an accuracy level of 96%
+
 ![Screenshot 2023-09-07 145448](https://github.com/sriramm04/Driver-Alert-System-Using-CNN-/assets/129077845/d8692a4b-3421-445e-839d-0b9f92df9487)
+
 ![Screenshot 2023-09-07 145848](https://github.com/sriramm04/Driver-Alert-System-Using-CNN-/assets/129077845/dbf1ebb4-409b-4f5a-9038-76a7531f8df6)
 
 ![Screenshot 2023-09-07 145911](https://github.com/sriramm04/Driver-Alert-System-Using-CNN-/assets/129077845/547eb417-4f50-4cc2-9440-7bb900432bd5)

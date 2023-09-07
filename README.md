@@ -60,11 +60,11 @@ The dataset includes 2,312 training images and 578 testing images.
 
 We did about 50 epochs and got an accuracy level of 96%
 
-![Screenshot 2023-09-07 145448](https://github.com/sriramm04/Driver-Alert-System-Using-CNN-/assets/129077845/d8692a4b-3421-445e-839d-0b9f92df9487)
+![Screenshot 2023-09-07 145448](https://github.com/sriramm04/Driver_alert_System_Using_CNN/assets/129077845/16e50397-6e1c-4f79-9c00-484335c799f4)
 
-![Screenshot 2023-09-07 145848](https://github.com/sriramm04/Driver-Alert-System-Using-CNN-/assets/129077845/dbf1ebb4-409b-4f5a-9038-76a7531f8df6)
+![Screenshot 2023-09-07 145848](https://github.com/sriramm04/Driver_alert_System_Using_CNN/assets/129077845/10d0bfa7-0666-4fad-a783-4ac0767792e9)
 
-![Screenshot 2023-09-07 145911](https://github.com/sriramm04/Driver-Alert-System-Using-CNN-/assets/129077845/547eb417-4f50-4cc2-9440-7bb900432bd5)
+![Screenshot 2023-09-07 145911](https://github.com/sriramm04/Driver_alert_System_Using_CNN/assets/129077845/0f760ac9-0fa0-4767-96b3-5eb3a72fd2b5)
 
 ## Conclusion
 
